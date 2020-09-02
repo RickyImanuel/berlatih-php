@@ -5,6 +5,7 @@ function ubah_huruf($string){
         $Output .= chr(ord($string[$i])+1);
     }
     return $Output."<br>";
+    
 }
 
 // TEST CASES

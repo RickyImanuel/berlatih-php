@@ -13,6 +13,7 @@ function tukar_besar_kecil($string){
         }
     }
     return $Output."<br>";
+    
 }
 
 // TEST CASES

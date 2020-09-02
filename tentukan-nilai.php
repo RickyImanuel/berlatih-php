@@ -13,6 +13,7 @@ function tentukan_nilai($number)
     else{
         return "Kurang<br>";
     }
+    
 }
 
 //TEST CASES
